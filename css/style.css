@@ -23,7 +23,7 @@ body, html {
 }
 
 .section-1 {
-  background-image: url("/images/section-1-bg.png");
+  background-image: url("https://nickrosendo.github.io/pollen-d-loop/images/section-1-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 1rem;
