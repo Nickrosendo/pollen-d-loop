@@ -289,6 +289,10 @@ body, html {
     padding-left: .5rem;
   }
 
+  .pending-subscribe .title {
+    margin-bottom: 2rem;
+  }
+
   .d-loop-diagram {
     width: 100vw;
     margin: 0;
