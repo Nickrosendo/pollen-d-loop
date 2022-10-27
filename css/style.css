@@ -165,6 +165,8 @@ body, html {
   outline: 0;
   padding: .5rem 2rem;
   height: 50px;
+  width: 380px;
+  max-width: 65vw;
 
   font-family: 'Montserrat';
   font-style: normal;
